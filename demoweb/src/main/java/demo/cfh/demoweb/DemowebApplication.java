@@ -10,7 +10,6 @@ public class DemowebApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemowebApplication.class, args);
-
 	}
 
 }
